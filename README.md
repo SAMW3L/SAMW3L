@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAMW3L
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter and Larvel
+- 🌱 I’m currently learning React Typescript,flutter and Larvel
 - 💞️ I’m looking to collaborate on mobile applications and web development
 - 📫 How to reach me: email: samuelsarah678@gmail.com
 
